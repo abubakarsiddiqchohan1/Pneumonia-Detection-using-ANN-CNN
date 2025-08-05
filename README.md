@@ -1,4 +1,4 @@
- 📌 Pneumonia Detection using ANN & CNN
+ 📌 **Pneumonia Detection using ANN & CNN**
 
 📖 Description
 This project was developed as part of my 5th semester university course *Deep Learning and Neural Networks*. The goal was to detect pneumonia using two different neural network architectures & deployed using Gradio:
